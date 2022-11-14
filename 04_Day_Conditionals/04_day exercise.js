@@ -2,7 +2,7 @@ let age = Number(prompt("enter age"));
 if (age > 18) {
     console.log("you are old enough to drive")
 } else {
-    console.log(`you are left with ${18-age} year(s) to drive`)
+    console.log(`left with ${20-age} years to drive`)
 }
 
 let yourAge = 30;
